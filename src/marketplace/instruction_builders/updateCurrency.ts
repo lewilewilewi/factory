@@ -56,7 +56,7 @@ export async function createUpdateRegisteredCurrencyRoyaltyInstruction({
 }
 
 /**
- * Returns and instruction which updates the royalty associated with a registered currency
+ * Returns and instruction which updates the vault associated with a registered currency
  *
  * @param connection
  * @param updateAuthorityAccount - Public key of registered update authority
